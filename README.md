@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2w9t8j985goe8o7c?svg=true)](https://ci.appveyor.com/project/AnastasiaCymbalyuk/container2)
